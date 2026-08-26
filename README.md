@@ -1,3 +1,42 @@
+<div align="center">
+
+<img width="100%" src="docs/assets/sonoxo-ecosystem-orbit.svg" alt="BUILD ORBIT animated ecosystem flow" />
+
+# BUILD ORBIT
+
+### Describe an application. The agent works in an isolated project space, creates restore points, deploys a preview, inspects it, and iterates with you.
+
+[Start here](#start-here) · [Original project documentation](#original-project-documentation)
+
+</div>
+
+## Start here
+
+You do not need to understand the whole codebase first. Follow the illuminated path in the graphic:
+
+**01 — Describe the idea** →  **02 — Agent plans and edits** →  **03 — Save a restore point** →  **04 — Deploy a preview** →  **05 — Inspect and repair**
+
+| What you are looking at | Plain-English meaning |
+|---|---|
+| **Input** | What the user or system supplies |
+| **Core** | The repository’s main processing loop |
+| **Guardrails** | Configuration, policy, filters, or approval boundaries |
+| **Output** | The result the system returns or deploys |
+| **Proof** | Tests, reports, previews, logs, or other visible evidence |
+
+> **Status, stated plainly:** This fork preserves Cloudflare VibeSDK’s upstream architecture, documentation, attribution, and license. Deployment still requires the documented Cloudflare services and configuration.
+
+<details>
+<summary><strong>Accessibility and motion</strong></summary>
+
+The hero is a native SVG with descriptive text. Animation automatically stops when your device enables **Reduce Motion**. No JavaScript, tracking code, video autoplay, or external image host is required.
+
+</details>
+
+---
+
+## Original project documentation
+
 # Cloudflare VibeSDK
 
 > An open source, agentic platform for building and deploying full-stack applications on Cloudflare.
